@@ -3,6 +3,10 @@
 A full-stack web application for **AQI prediction, analysis, and health risk assessment**, focused on **asthma patients and vulnerable groups**.
 
 ---
+## 📸 Screenshots
+
+### Home Page
+![Dashboard](assets/Homepage.png)
 
 ## 🚀 Features
 
