@@ -6,7 +6,7 @@ A full-stack web application for **AQI prediction, analysis, and health risk ass
 ## 📸 Screenshots
 
 ### Home Page
-![Dashboard](assets/Homepage.png)
+![Home](assets/https://github.com/kiki-ran/Intelligent-AQI-Prediction-and-Analysis-with-Health-Risk-Assessment/blob/main/assets/Home%20page.png)
 
 ## 🚀 Features
 
